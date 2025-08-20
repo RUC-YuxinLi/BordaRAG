@@ -6,7 +6,7 @@ Due to copyright restrictions, the experimental data cannot be made publicly ava
 
 ### Set Environment
 
-run `pip install -r requirement.txt`.
+run `pip install -r requirements.txt`.
 
 ### Run Command
 
