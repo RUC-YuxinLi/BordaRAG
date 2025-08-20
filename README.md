@@ -4,6 +4,10 @@ This is the official implementation of BordaRAG.
 
 Due to copyright restrictions, the experimental data cannot be made publicly available.
 
+### Set Environment
+
+run `pip install -r requirement.txt`.
+
 ### Run Command
 
 ```
