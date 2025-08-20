@@ -6,6 +6,7 @@ Due to copyright restrictions, the experimental data cannot be made publicly ava
 
 ### Run Command
 
+```
 python main.py \
 -model_path [your model path] \
 -candidate_datapath [your qa data path] \
@@ -17,3 +18,4 @@ python main.py \
 -qa_prompt_path [save path for qa prommpt] \
 -qa_result_path [save path for qa results] \
 -topk [top-k for document filtering]
+```
