@@ -19,3 +19,7 @@ python main.py \
 -qa_result_path [save path for qa results] \
 -topk [top-k for document filtering]
 ```
+
+### Evaluate
+
+Use `evaluate.py` for evaluation.
