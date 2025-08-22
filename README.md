@@ -2,7 +2,16 @@
 
 This is the official implementation of BordaRAG.
 
-Due to copyright restrictions, the experimental data cannot be made publicly available.
+The dataset is accessible on Hugging Face via the link below:
+- NQ: https://huggingface.co/datasets/google-research-datasets/nq_open
+- PopQA: https://huggingface.co/datasets/akariasai/PopQA
+- TriviaQA: https://huggingface.co/datasets/mandarjoshi/trivia_qa
+
+The Google Search API can be accessed by: 
+```
+https://www.googleapis.com/customsearch/v1?key={YOUR_KEY}&q={SEARCH_WORDS}&cx={YOUR_CX}&start={10}&num={10}
+```
+The test dataset created by author can be accessed by: https://drive.google.com/drive/folders/1BmDIH5E8boxuIIBANB3-tRUiOd05pAHd?usp=sharing
 
 ### Set Environment
 
